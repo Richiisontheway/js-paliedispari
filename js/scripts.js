@@ -26,10 +26,10 @@ submit.addEventListener('click', function(){
             return alert ('mi dispiace ma sei un bufu')
         }
     
-        
     }
     
     control(input,word);
+    
 });
 
 
